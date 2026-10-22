@@ -1,125 +1,149 @@
-# Tan Vouchleang
+<div align="center">
 
-Data Science Student | Machine Learning | Data Analytics | Data Visualisation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:8A2BE2,100:2575FC&height=230&section=header&text=Tan%20Vouchleang&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=DATA%20SCIENCE%20&descSize=16&descAlignY=58" width="100%" alt="Tan Vouchleang animated banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Learning+Machine+Learning;Exploring+Artificial+Intelligence;Turning+Data+into+Insights;Building+Data+Science+Projects;Learning+Something+New+Every+Day" alt="Animated introduction" />
+
+<br/>
+
+<a href="https://tan-vouchleang.github.io/Vouchleang-portfolio">
+  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/tan-vouchleang">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/vouchleang-tan-29a491376">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://facebook.com/vouchleang.tan">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://t.me/tanvouchleang">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="mailto:tanvouchleang@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
 
 ## About Me
 
-I am a Data Science student at the Institute of Technology of Cambodia with a passion for transforming raw data into meaningful insights.
+I am **Tan Vouchleang**, a Data Science student at **Institute of Technology of Cambodia (ITC)**.
 
-I enjoy working with data, building machine learning models, exploring datasets, and creating clear visualisations to support data-driven decisions.
+I am interested in understanding how data can help us learn more about the world and solve real problems. I enjoy exploring datasets, finding patterns, analyzing information, and using programming to turn data into useful insights.
 
-I also work as a Mathematics Teacher at Mekun Academy, where I develop my ability to explain complex concepts clearly, think logically, and solve problems effectively.
+I am developing my knowledge of statistics, data analysis, and machine learning. I believe that learning Data Science is not only about building models, but also about asking the right questions, understanding the results, and using them to make better decisions.
+
+My goal is to become a **Data Scientist or AI Engineer**.
 
 Currently, I am focused on developing my skills in:
+- Data Science and Statistical Analysis
+- Machine Learning and Artificial Intelligence
+- Data Analytics and Visualisation
+- Programming and Database Management
+- Research and Real-World Problem Solving
 
-- Data Science
-- Machine Learning
-- Data Analytics
-- Data Visualisation
-- Statistical Analysis
-- Database Management
+## Areas of Interest
 
-### Portfolio
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tan-vouchleang.github.io/Vouchleang-portfolio)
+<img src="https://img.shields.io/badge/Data_Science-8A2BE2?style=for-the-badge" alt="Data Science" />
+<img src="https://img.shields.io/badge/Machine_Learning-6A11CB?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-2575FC?style=for-the-badge" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/Data_Analytics-8A2BE2?style=for-the-badge" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/Data_Visualisation-6A11CB?style=for-the-badge" alt="Data Visualisation" />
+<img src="https://img.shields.io/badge/Statistical_Analysis-2575FC?style=for-the-badge" alt="Statistical Analysis" />
 
-## Socials
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/tan-vouchleang)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/vouchleang.tan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vouchleang-tan-29a491376)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/tanvouchleang)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:tanvouchleang@gmail.com)
+</div>
 
 ## Technical Skills
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3.svg?style=flat&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
 ### Data Science and Machine Learning
 
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=flat&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5.svg?style=flat&logo=scipy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
 
 ### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-### Databases and Analytics
+### Databases and Data Visualisation
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat&logo=powerbi&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
 
-### Design and Productivity
+### Tools and Design
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=flat&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=latex&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=flat&logo=confluence&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" alt="Confluence" />
+</p>
 
 ## GitHub Statistics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.shion.dev/api?username=Yuuki-Haruka&theme=jolly&hide_border=true&include_all_commits=true&count_private=false" 
-    height="180"
-  />
-  <img 
-    src="https://streak-stats.demolab.com/?user=Yuuki-Haruka&theme=jolly&hide_border=true" 
-    height="180"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yuuki-Haruka&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact" 
-    height="180"
-  />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tan-vouchleang&show_icons=true&theme=jolly&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
 
-## GitHub Contributions
+<img width="49%" src="https://streak-stats.demolab.com?user=tan-vouchleang&theme=jolly&hide_border=true" alt="GitHub streak" />
 
-<p align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=Yuuki-Haruka&limit=5&theme=jolly&combine_all_yearly_contributions=true" 
-  />
-</p>
+<br/>
 
-## Random Dev Quote
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tan-vouchleang&layout=compact&theme=jolly&hide_border=true&langs_count=8" alt="Most used languages" />
 
-<p align="center">
-  <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
-  />
-</p>
+</div>
 
-## Profile Views
+## Contribution Activity
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Yuuki-Haruka&icon=9&color=10" 
-  />
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tan-vouchleang&theme=jolly" width="100%" alt="GitHub contribution summary" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building skills through data, code, and continuous learning.</i>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Learn.+Build.+Analyse.+Improve.;Every+Project+Is+An+Opportunity+To+Learn." alt="Animated closing message" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,50:8A2BE2,100:6A11CB&height=120&section=footer&animation=twinkling" width="100%" alt="Animated purple footer" />
+
+**Building skills through data, code, and continuous learning.**
+
+</div>
