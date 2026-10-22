@@ -25,7 +25,7 @@ Currently, I am focused on developing my skills in:
 
 ## Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/Yuuki-Haruka)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/tan-vouchleang)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/vouchleang.tan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vouchleang-tan-29a491376)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=flat&logo=telegram&logoColor=white)](https://t.me/tanvouchleang)
