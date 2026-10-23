@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:8A2BE2,100:2575FC&height=230&section=header&text=Tan%20Vouchleang&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=DATA%20SCIENCE%20&descSize=16&descAlignY=58" width="100%" alt="Tan Vouchleang animated banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B97BFB,50:FF7EB8,100:63D8F6&height=230&section=header&text=Tan%20Vouchleang&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=DATA%20SCIENCE&descSize=16&descAlignY=58" width="100%" alt="Tan Vouchleang banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Learning+Machine+Learning;Exploring+Artificial+Intelligence;Turning+Data+into+Insights;Building+Data+Science+Projects;Learning+Something+New+Every+Day" alt="Animated introduction" />
 
 <br/>
 
 <a href="https://tan-vouchleang.github.io/Vouchleang-portfolio">
-  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/tan-vouchleang">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -50,11 +50,11 @@ Currently, I am focused on developing my skills in:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data_Science-8A2BE2?style=for-the-badge" alt="Data Science" />
-<img src="https://img.shields.io/badge/Machine_Learning-6A11CB?style=for-the-badge" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Data_Science-FF7EB8?style=for-the-badge" alt="Data Science" />
+<img src="https://img.shields.io/badge/Machine_Learning-B97BFB?style=for-the-badge" alt="Machine Learning" />
 <img src="https://img.shields.io/badge/Artificial_Intelligence-2575FC?style=for-the-badge" alt="Artificial Intelligence" />
-<img src="https://img.shields.io/badge/Data_Analytics-8A2BE2?style=for-the-badge" alt="Data Analytics" />
-<img src="https://img.shields.io/badge/Data_Visualisation-6A11CB?style=for-the-badge" alt="Data Visualisation" />
+<img src="https://img.shields.io/badge/Data_Analytics-FF7EB8?style=for-the-badge" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/Data_Visualisation-B97BFB?style=for-the-badge" alt="Data Visualisation" />
 <img src="https://img.shields.io/badge/Statistical_Analysis-2575FC?style=for-the-badge" alt="Statistical Analysis" />
 
 </div>
@@ -142,7 +142,7 @@ Currently, I am focused on developing my skills in:
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Learn.+Build.+Analyse.+Improve.;Every+Project+Is+An+Opportunity+To+Learn." alt="Animated closing message" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,50:8A2BE2,100:6A11CB&height=120&section=footer&animation=twinkling" width="100%" alt="Animated purple footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:63D8F6,50:FF7EB8,100:B97BFB&height=120&section=footer&animation=twinkling" width="100%" alt="Lavender pink blue footer" />
 
 **Building skills through data, code, and continuous learning.**
 
